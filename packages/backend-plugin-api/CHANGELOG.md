@@ -1,5 +1,16 @@
 # @backstage/backend-plugin-api
 
+## 0.1.2-next.2
+
+### Patch Changes
+
+- 854ba37357: The `createServiceFactory` method has been updated to return a higher-order factory that can accept options.
+- Updated dependencies
+  - @backstage/config@1.0.2-next.0
+  - @backstage/plugin-permission-common@0.6.4-next.2
+  - @backstage/backend-common@0.15.1-next.3
+  - @backstage/backend-tasks@0.3.5-next.1
+
 ## 0.1.2-next.1
 
 ### Patch Changes

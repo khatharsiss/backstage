@@ -1,5 +1,19 @@
 # @backstage/plugin-catalog-node
 
+## 1.1.0-next.2
+
+### Minor Changes
+
+- 9743bc788c: Added refresh function to the `EntityProviderConnection` to be able to schedule refreshes from entity providers.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-client@1.1.0-next.2
+  - @backstage/catalog-model@1.1.1-next.0
+  - @backstage/errors@1.1.1-next.0
+  - @backstage/backend-plugin-api@0.1.2-next.2
+
 ## 1.0.2-next.1
 
 ### Patch Changes
